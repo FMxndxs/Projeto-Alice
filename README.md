@@ -54,13 +54,13 @@
 ---
 
 ## 3) Arquivo do Projeto Alice
-* **Link:** [Cole aqui o link do Google Drive/OneDrive para o arquivo .a3p]
-
+projeto esta no repositório
 ---
 
 ## 4) Vídeo Explicativo - Conceitos de POO
-* **Link:** [Cole aqui o link do YouTube]
+* **Link:** https://youtu.be/KIPOmCb8g7c
 
+* 
 **Conceitos demonstrados no vídeo:**
 * **Classe:** O molde usado na galeria do Alice para criar as aves.
 * **Objeto/Instância:** Os personagens na tela (ex: o 'blue' e o 'gaviao').
