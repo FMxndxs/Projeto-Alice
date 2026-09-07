@@ -2,13 +2,14 @@
 
 # WIKI do Trabalho: Animação Alice 3 (Orientação a Objetos)
 
-**Aluno:** Klaus Gustavo C. R. Moura
-**RA:** 10735808
+**Aluno:** Felipe Mendes Campos
+**RA:** 10740655
 
 ---
 
 ## 1) Storyboard
-*(Insira aqui as fotos do seu storyboard desenhado à mão)*
+*<img width="735" height="1000" alt="image" src="https://github.com/user-attachments/assets/6dfe70ef-1e3f-4f32-815e-c3d912d362b3" />
+*
 
 **Resumo das Cenas:**
 * **Cenas 1 e 2:** As irmãs de Blue recebem alimento da mãe, um por vez.
